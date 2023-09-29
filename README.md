@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif](https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif)https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="100"/>
+  <img src="![image](https://github.com/miglio-RE/miglio-RE/assets/63875326/bfba054a-36d0-4dcc-a526-b90ee277dd83)
+" width="100"/>
 </div>
