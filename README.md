@@ -1,5 +1,5 @@
 <h1 align="center">Hello world, I'm Matteo MIGLIORE</h1>
-<h3 align="center">A IT and robotics student from Italy</h3>
+<h3 align="center">An IT and robotics student from Italy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miglio-re&label=Profile%20views&color=0e75b6&style=flat" alt="miglio-re" /> </p>
 
