@@ -1,9 +1,17 @@
 <h1 align="center">Hello world, I'm Matteo MIGLIORE</h1>
-<h3 align="center">An IT and robotics student from Italy</h3>
+<h3 align="center">A IT and robotics student from Italy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miglio-re&label=Profile%20views&color=0e75b6&style=flat" alt="miglio-re" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miglio-re" alt="miglio-re" /></a> </p>
+
+- 🔭 I’m currently studying at **ITIS Mario Delpozzo**
+
+- 🌱 I’m currently learning **Python, SQLite**
+
+- 👨‍💻 All of my projects are available at [https://github.com/miglio-RE](https://github.com/miglio-RE)
+
+- ⚡ I'm interested in **IT, robotic and math**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,3 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miglio-re&show_icons=true&locale=en&layout=compact" alt="miglio-re" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miglio-re&show_icons=true&locale=en" alt="miglio-re" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miglio-re&" alt="miglio-re" /></p>
