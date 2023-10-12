@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miglio-re" alt="miglio-re" /></a> </p>
 
-- 🔭 I’m currently studying at **ITIS Mario Delpozzo**
+- 🏫 I’m currently studying at **ITIS Mario Delpozzo**
 
 - 🌱 I’m currently learning **Python, SQLite**
 
